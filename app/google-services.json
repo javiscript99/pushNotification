@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1058190518980",
+    "firebase_url": "https://pruebanotif-fee14.firebaseio.com",
+    "project_id": "pruebanotif-fee14",
+    "storage_bucket": "pruebanotif-fee14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058190518980:android:bc9fa32ca1eb5805",
+        "android_client_info": {
+          "package_name": "com.example.javi.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058190518980-34fdtcjjm4jcbj9jp9sf3lgkgeqkvmre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC66f2OtsrNxV4MGeAECjuEP_ZFeNqk5hs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
